@@ -36,7 +36,7 @@ section {
 .banner button {
 	font-size: 1rem;
 	padding: 16px 32px;
-	border: 2px solid deepskyblue;
+	border: 1px solid deepskyblue;
 	background-color: transparent;
 	margin: 1rem;
 }
@@ -46,7 +46,7 @@ section {
 }
 
 .module {
-	border: 2px solid deepskyblue;
+	border: 1px solid deepskyblue;
 	border-radius: 40px;
 	padding: 15px 10px;
 	margin: 5px;
