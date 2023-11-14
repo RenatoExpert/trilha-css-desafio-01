@@ -16,11 +16,15 @@ span, h1, h2, button {
 h1, h2, button {
 	text-transform: uppercase;
 	letter-spacing: 4px;
+	margin-bottom: 24px;
 }
 
 h2 {
 	font-size: 2rem;
-	margin-bottom: 24px;
+}
+
+section {
+	padding: 100px;
 }
 
 .banner {
