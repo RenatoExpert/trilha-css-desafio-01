@@ -1,3 +1,72 @@
+* {
+	margin: 0;
+	font-family: "Raleway", sans-serif;
+}
+
 body {
 	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+span, h1, h2, button {
+	color: cornflowerblue;
+}
+
+h1, h2, button {
+	text-transform: uppercase;
+	letter-spacing: 4px;
+}
+
+h2 {
+	font-size: 2rem;
+	margin-bottom: 24px;
+}
+
+.banner {
+	padding: 150px;
+	background-image: url("/assets/images/banner.png");
+	border-bottom: 1px solid cornflowerblue;
+}
+
+.banner button {
+	font-size: 1rem;
+	padding: 16px 32px;
+	border: 2px solid cornflowerblue;
+	background-color: transparent;
+	margin: 1rem;
+}
+
+#course-content {
+	padding: 100px;
+}
+
+.modules-list {
+	padding: 50px 150px;
+}
+
+.module {
+	border: 2px solid cornflowerblue;
+	border-radius: 40px;
+	padding: 15px 10px;
+	margin: 5px;
+	background-color: #252525;
+	box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
+}
+
+#transform-world {
+	height: 100px;
+	padding: 200px;
+	background-image: url("/assets/images/woman-code.png");
+	background-size: cover;
+	background-attachment: fixed;
+	border-top: 1px solid cornflowerblue;
+	border-bottom: 1px solid cornflowerblue;
+}
+#transform-world p {
+	text-transform: lowercase;
+	text-shadow: 3px 2px cornflowerblue;
+	max-width: 250px;
+	font-size: 2.5rem;
+	font-weight: 900;
 }
