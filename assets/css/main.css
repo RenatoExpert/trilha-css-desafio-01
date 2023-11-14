@@ -10,7 +10,7 @@ body {
 }
 
 span, h1, h2, button {
-	color: cornflowerblue;
+	color: deepskyblue;
 }
 
 h1, h2, button {
@@ -26,13 +26,13 @@ h2 {
 .banner {
 	padding: 150px;
 	background-image: url("/assets/images/banner.png");
-	border-bottom: 1px solid cornflowerblue;
+	border-bottom: 1px solid deepskyblue;
 }
 
 .banner button {
 	font-size: 1rem;
 	padding: 16px 32px;
-	border: 2px solid cornflowerblue;
+	border: 2px solid deepskyblue;
 	background-color: transparent;
 	margin: 1rem;
 }
@@ -46,7 +46,7 @@ h2 {
 }
 
 .module {
-	border: 2px solid cornflowerblue;
+	border: 2px solid deepskyblue;
 	border-radius: 40px;
 	padding: 15px 10px;
 	margin: 5px;
@@ -60,13 +60,13 @@ h2 {
 	background-image: url("/assets/images/woman-code.png");
 	background-size: cover;
 	background-attachment: fixed;
-	border-top: 1px solid cornflowerblue;
-	border-bottom: 1px solid cornflowerblue;
+	border-top: 1px solid deepskyblue;
+	border-bottom: 1px solid deepskyblue;
 }
 
 #transform-world p {
 	text-transform: lowercase;
-	text-shadow: 3px 2px cornflowerblue;
+	text-shadow: 3px 2px deepskyblue;
 	max-width: 250px;
 	font-size: 2.5rem;
 	font-weight: 900;
